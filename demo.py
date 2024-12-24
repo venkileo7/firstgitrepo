@@ -7,3 +7,6 @@ count = 0
 while count != 10:
   print(count)
   count += 1
+
+dict1 = {'name': 'venki', 'age': 24}
+print(dict1)
