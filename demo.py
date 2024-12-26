@@ -10,3 +10,8 @@ while count != 10:
 
 dict1 = {'name': 'venki', 'age': 24}
 print(dict1)
+
+str1  = "venkatesh"
+
+for i in str1:
+  print(i)
