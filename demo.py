@@ -15,3 +15,8 @@ str1  = "venkatesh"
 
 for i in str1:
   print(i)
+
+count = 0
+while count != 7:
+  print("venki")
+  count += 1
